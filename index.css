@@ -3,7 +3,9 @@
 body{
     
     
-    margin: 20px;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
     background-image:url(imgs/bg_foto.jpg);
     background-size: 100%;
     
@@ -72,11 +74,10 @@ li{
 #formacao{
     margin-bottom: 20px;
     margin-top: 20px;
-    margin-right: 30px;
+    
     background-color: rgba(250, 248, 234, 0.548);
     border: black 5px solid;
-    float: top;
-    float: left;
+   
     
 }
 
@@ -89,7 +90,7 @@ li{
 #cursos{
     font-size:101% ;
     
-    float:left;
+    float:center;
     background-color: rgba(250, 248, 234, 0.548);
     border: black 5px solid;
     margin-top: 50px;
